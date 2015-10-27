@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is a simple test to see how this is all working out.
-datePublished: '2015-10-27T18:05:18.606Z'
-dateModified: '2015-10-27T18:04:28.051Z'
+datePublished: '2015-10-27T18:16:47.891Z'
+dateModified: '2015-10-27T18:16:44.367Z'
 title: 'This is my first new post!!!'
 author: []
 authors: []
