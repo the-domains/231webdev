@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This is a simple test to see how this is all working out. I am going to attempt to do something cool here. We will see.
-datePublished: '2015-10-27T18:21:31.446Z'
-dateModified: '2015-10-27T18:21:16.679Z'
+datePublished: '2015-10-27T18:47:01.777Z'
+dateModified: '2015-10-27T18:44:29.747Z'
 title: 'This is my first new post!!!'
 author: []
 sourcePath: _posts/2015-10-27-this-is-my-first-new-post.md
