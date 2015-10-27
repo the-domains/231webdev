@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: This is a simple test to see how this is all working out.
-datePublished: '2015-10-27T18:16:47.891Z'
-dateModified: '2015-10-27T18:16:44.367Z'
+description: This is a simple test to see how this is all working out. I am going to attempt to do something cool here. We will see.
+datePublished: '2015-10-27T18:21:31.446Z'
+dateModified: '2015-10-27T18:21:16.679Z'
 title: 'This is my first new post!!!'
 author: []
+sourcePath: _posts/2015-10-27-this-is-my-first-new-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-27-this-is-my-first-new-post.md
-published: true
+url: this-is-my-first-new-post/index.html
 _context: 'http://schema.org'
 _type: Article
 
