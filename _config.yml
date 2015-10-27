@@ -1,0 +1,23 @@
+name: 231webdev
+favicon: null
+layout_spectrum: 0.46933728619478643
+typography_spectrum: 0.43840043619275093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6295617846772075
+  lightness: 0.26709464844316244
+  saturation: 0.342981027206406
+  rhythmicContrast: 0.529985505156219
+purpose: []
